@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "68253998582570da5684e2a5"
+  },
+  "kode_produk": "PRD001",
+  "nama": "Laptop ASUS ROG",
+  "kategori": "Laptop",
+  "merek": "ASUS",
+  "stok": 10,
+  "harga": 15000000,
+  "deskripsi": "Laptop gaming dengan performa tinggi"
+}]

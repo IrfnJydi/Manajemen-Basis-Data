@@ -1,9 +1,0 @@
-[{
-  "_id": {
-    "$oid": "682479f2205b42d443413c07"
-  },
-  "judul": "Belajar MongoDB ",
-  "penulis": "Irfan Jayadi",
-  "tahun_terbit": 2025,
-  "kategori": "Teknologi"
-}]
